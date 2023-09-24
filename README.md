@@ -17,3 +17,11 @@ Welcome to the Nashville Housing Data Cleaning Project! This project focuses on 
 **Raw Data Sources**: An overview of the sources from which the raw data was collected. <br>
 
 **Data Cleaning Scripts**: SQL scripts used to clean and preprocess the data, with comments for clarity. <br>
+
+# **Technologies Used:** <br>
+
+**Microsoft SQL Server**: SQL Server was chosen for its robust data processing capabilities and familiarity in handling large datasets. <br>
+
+**T-SQL**: Transact-SQL (T-SQL) was used for writing SQL queries and scripts to manipulate and clean the data. <br>
+
+**ETL Processes**: Extract, Transform, Load (ETL) processes were implemented to streamline data collection and integration. <br>
